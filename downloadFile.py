@@ -1,4 +1,4 @@
-from urllib import requesthhh
+from urllib import request
 
 goog_url = 'http://real-chart.finance.yahoo.com/table.csv?s=GOOG&d=6&e=18&f=2015&g=d&a=2&b=27&c=2014&ignore=.csv'
 
